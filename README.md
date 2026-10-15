@@ -30,13 +30,7 @@ The table is created automatically on the first request, so a fresh database nee
 No cloud account, API keys, or credentials are needed to run it locally.
 
 ## Install and run it
-
-```sh
-npm install
-npm run dev
-```
-
-Wrangler starts a local server on <http://localhost:8787>. Press `x` in that terminal to stop it.
+https://pv-6905c5b9674b-5bf3512a-ff9b-4273-a80d-59fd209d9201.style.dev/
 
 To use a different port — useful if 8787 is taken:
 
